@@ -3,7 +3,7 @@
 
   "maintenance": {
     "active": true,
-    "startAt": "2026-08-01 02:00",
+    "startAt": "2026-08-01 03:00",
     "endAt":   "2026-08-01 06:00",
     "ongoing": {
       "title": "서버 점검 중",
