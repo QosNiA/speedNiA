@@ -1,5 +1,5 @@
 {
-  "maintenance": false,
+  "maintenance": true,
   "startAt": "2026-07-31 02:00",
   "endAt": "2026-08-01 06:00",
   "ongoing": {
@@ -11,7 +11,7 @@
     "message": "더 나은 서비스를 위해\n아래 시간에 점검이 예정되어 있습니다."
   },
   "notice": {
-    "show": true,
+    "show": false,
     "url": "https://iqms.abiesnet.com:26043/mobile/event_m.asp"
   }
 }
