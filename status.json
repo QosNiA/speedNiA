@@ -1,7 +1,6 @@
 {
-  "maintenance": false,
-  "title": "",
-  "message": "",
-  "startAt": "",
-  "endAt": ""
+  "maintenance": true, "title": "서버 점검 안내",
+  "message": "더 나은 서비스를 위해\n시스템 점검 중입니다.",
+  "startAt": "2026-08-01 02:00",
+  "endAt": "2026-08-01 06:00"
 }
