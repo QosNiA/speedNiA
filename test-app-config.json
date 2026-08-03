@@ -23,7 +23,7 @@
       "message": "8월부터 측정 방식이 변경됩니다.",
       "startAt": "",
       "endAt": "2026-08-31 23:59",
-      "repeat": "once"
+      "repeat": "always"
     },
     {
       "id": "20260731-notice2",
@@ -38,7 +38,7 @@
       "id": "2026-08-event",
       "type": "web",
       "url": "https://iqms.abiesnet.com:26043/mobile/event_m.asp",
-      "repeat": "daily"
+      "repeat": "always"
     }
   ]
 }
