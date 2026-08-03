@@ -2,7 +2,7 @@
   "schemaVersion": 2,
 
   "maintenance": {
-    "active": true,
+    "active": false,
     "startAt": "2026-08-02 01:00",
     "endAt":   "2026-08-02 06:00",
     "ongoing": {
@@ -22,7 +22,7 @@
       "title": "안내",
       "message": "8월부터 측정 방식이 변경됩니다.",
       "startAt": "",
-      "endAt": "2026-08-31 23:59",
+      "endAt": "2026-08-01 23:59",
       "repeat": "once"
     },
     {
@@ -31,7 +31,7 @@
       "title": "안내",
       "message": "공지사항 테스트 중입니다.",
       "startAt": "",
-      "endAt": "2026-08-31 23:59",
+      "endAt": "2026-08-01 23:59",
       "repeat": "always"
     },
     {
