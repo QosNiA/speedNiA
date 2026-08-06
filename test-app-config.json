@@ -38,6 +38,8 @@
       "id": "2026-08-event",
       "type": "web",
       "url": "https://iqms.abiesnet.com:26043/mobile/event_m.asp",
+      "startAt": "",
+      "endAt": "2026-08-01 23:59",
       "repeat": "always"
     }
   ]
