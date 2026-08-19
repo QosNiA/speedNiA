@@ -2,7 +2,7 @@
   "schemaVersion": 2,
 
   "maintenance": {
-    "active": true,
+    "active": false,
     "startAt": "2026-08-20 00:00",
     "endAt":   "2026-08-20 12:00",
     "ongoing": {
