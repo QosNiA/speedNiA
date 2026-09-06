@@ -40,7 +40,7 @@
       "url": "https://speed.nia.or.kr/mobile/event_m.asp",
       "startAt": "2026-09-07 09:00",
       "endAt": "2026-11-06 23:59",
-      "repeat": "daily"
+      "repeat": "always"
     }
   ]
 }
