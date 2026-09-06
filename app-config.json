@@ -35,11 +35,11 @@
       "repeat": "once"
     },
     {
-      "id": "2026-08-event",
+      "id": "2026-09-event",
       "type": "web",
-      "url": "https://iqms.abiesnet.com:26043/mobile/event_m.asp",
-      "startAt": "",
-      "endAt": "2026-08-01 23:59",
+      "url": "https://speed.nia.or.kr/mobile/event_m.asp",
+      "startAt": "2026-09-07 09:00",
+      "endAt": "2026-11-06 23:59",
       "repeat": "daily"
     }
   ]
