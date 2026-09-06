@@ -32,7 +32,7 @@
       "message": "공지사항 테스트 중입니다.",
       "startAt": "",
       "endAt": "2026-08-31 23:59",
-      "repeat": "always"
+      "repeat": "daily"
     },
     {
       "id": "2026-08-event",
@@ -40,7 +40,7 @@
       "url": "https://iqms.abiesnet.com:26043/mobile/event_m.asp",
       "startAt": "",
       "endAt": "2026-08-01 23:59",
-      "repeat": "always"
+      "repeat": "once"
     }
   ]
 }
